@@ -1,0 +1,11 @@
+.idea
+__pycache__
+tf_summary
+.DS_Store
+dataset
+dataset.zip
+embedding_cache.pkl
+InceptionResnetV2.pb
+InceptionV3.pb
+test_set.tsv
+*.dat
